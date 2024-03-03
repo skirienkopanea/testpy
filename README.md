@@ -1,3 +1,5 @@
+`cases.py` generates a set of unit tests for 2 identical input methods comparision that take just booleans.
+
 ## Sample methods
 
 ### Method A
